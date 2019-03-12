@@ -23,7 +23,7 @@ namespace VidYo
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/Content/Lumen-Bootstrap.css",
                       "~/Content/site.css"));
         }
     }
